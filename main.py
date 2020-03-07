@@ -1,13 +1,13 @@
 def penjumlahan(a,b):
-	#isi fungsi penjumlahan diletakkan di variable total
-	return total
+        #isi fungsi pengurangan diletakkan di variable total
+        return total
 
 def pengurangan(a,b):
 	#isi fungsi pengurangan diletakkan di variable total
 	return total
 
 def perkalian(a,b):
-	#isi fungsi perkalian diletakkan di variable total 
+	total = a*b 
 	return total
 
 def pembagian(a,b):
